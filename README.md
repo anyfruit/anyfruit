@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=leenpham&label=Profile%20views&color=0e75b6&style=flat" alt="anyfruit" /> 
+    <img src="https://komarev.com/ghpvc/?username=anyfruit&label=Profile%20views&color=0e75b6&style=flat" alt="anyfruit" /> 
   </p>
   Hello 👋 Lee here 
   <br/>
@@ -57,7 +57,7 @@ space???
   
 - 🚀 I’m currently learning more about **AI Models, Holographic Technologies, and Augmented Reality applications** 
 
-- 👨‍💻 Some of my projects are available to view at https://www.leenpham.com OR in this very github.
+- 👨‍💻 Some of my projects are available to view at https://www.anyfruit.com OR in this very github.
 
 - 😄 Pronouns: He/Him/His/They/Them/Theirs
   
@@ -139,9 +139,9 @@ space???
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/leenpham"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@leenpham" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/anyfruit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@anyfruit" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leenpham&show_icons=true&locale=en&layout=compact" alt="leenpham" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anyfruit&show_icons=true&locale=en&layout=compact" alt="anyfruit" /></p>
 
 
 
@@ -183,7 +183,7 @@ space???
 
 
 <!--
-**LeeNPham/LeeNPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anyfruit/anyfruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
