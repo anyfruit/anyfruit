@@ -1,20 +1,25 @@
 ## Hi there 👋
 
 <h1 align="center"> 
-<p align="left"> <img 
-src="https://komarev.com/ghpvc/?username=kejingyan&label=Profile%20views&color=0e75b6&style=flat" alt="kejingyan" /> </p> Hello 👋 Kejing here <br/> I'm Your Future Data Scientist 😁📊 </h1>
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=kejingyan&label=Profile%20views&color=0e75b6&style=flat" alt="kejingyan" /> 
+  </p> 
+  Hello 👋 Kejing here 
+  <br/> 
+  I'm Your Future Data Scientist 😁📊 
+</h1>
 
-As a Data Scientist and Software Developer, my expertise spans statistical modeling, machine learning, and full-stack development. I'm deeply passionate about solving complex problems with data-driven insights and delivering scalable, impactful solutions. My journey has been marked by academic rigor and professional experiences in diverse fields like healthcare, finance, and consumer technology.
+As a Data Scientist and Analyst, my expertise lies in harnessing the power of machine learning (ML), deep learning (DL), and large language models (LLMs) to uncover actionable insights and build intelligent systems. I'm passionate about developing cutting-edge predictive models, exploring state-of-the-art neural architectures, and translating complex data into impactful solutions for real-world applications.
 
-I firmly believe in the transformative power of clean, interpretable models and user-focused design in creating practical tools. Whether collaborating on research, developing ML pipelines, or refining data visualizations for clients, I strive to ensure that my work bridges the gap between technical complexity and user needs.
+My journey in the field has been shaped by a commitment to innovation, academic excellence, and hands-on experience across industries like healthcare, real-estate, and consumer technology. I thrive on solving complex challenges using advanced methodologies such as generative AI, supervised and unsupervised learning, and statistical modeling.
 
 Here's a quick snapshot of my skill set:
 
-Programming Languages | Python, SQL, R, Java
-Machine Learning | PyTorch, TensorFlow, Scikit-learn, XGBoost, NumPy, Pandas
-Data Engineering & Visualization | Spark, Databricks, Tableau, Matplotlib
-Tools & Practices | Git, Agile Development, Statistical Modeling, API Integration
-Languages | English (Bilingual), Chinese (Primary), Japanese (Elementary), Cantonese (Limited Working)
+* **Programming Languages |** Python, SQL, R, Java
+* **Core Skills |** Machine Learning, Deep Learning, Generative AI, Predictive Modeling, LLM Fine-tuning
+* **Frameworks & Tools |** PyTorch, TensorFlow, Hugging Face, Scikit-learn, XGBoost
+* **Data Engineering & Visualization |** Databricks, Apache Spark, MongoDB, SQL, Tableau
+* **Languages |** English (Bilingual), Chinese (Primary), Cantonese (Limited Working), Japanese (Elementary)
 
 <!--
 
@@ -46,15 +51,13 @@ space???
 <hr/>
 
 
-- 🔭 Working on a mobile app that integrates AI models to assist outdoor enthusiasts in finding local resources, offering QOL utility features, and notifying them of emergencies.
+- 🔭 Developing AI models to assess motor behavior in high-stress scenarios, with applications in healthcare and ergonomics.
 
-- 👯 I’m looking to collaborate and partner on anything where my efforts will provide help to those in more unfortunate circumstances
-  
-- 🚀 I’m currently learning more about **AI Models, Holographic Technologies, and Augmented Reality applications** 
+- 👯 Open to collaboration on projects aimed at health equity and sustainable development.
 
-- 👨‍💻 Some of my projects are available to view at https://www.anyfruit.com OR in this very github.
+- 🚀 Exploring advancements in Neural Prophets, Predictive Analytics, and Reinforcement Learning.
 
-- 😄 Pronouns: He/Him/His/They/Them/Theirs
+- 😄 Pronouns: She/Her
   
 <!--
 - ❤️ I stand in solidarity with those who are under-represented within our tech communities:
