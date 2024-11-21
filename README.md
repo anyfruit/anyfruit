@@ -57,7 +57,7 @@ space???
 
 - 🚀 Exploring advancements in Neural Prophets, Predictive Analytics, and Reinforcement Learning.
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
   
 <!--
 - ❤️ I stand in solidarity with those who are under-represented within our tech communities:
