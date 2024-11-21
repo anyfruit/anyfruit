@@ -1,25 +1,20 @@
 ## Hi there 👋
 
-<h1 align="center">
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=anyfruit&label=Profile%20views&color=0e75b6&style=flat" alt="anyfruit" /> 
-  </p>
-  Hello 👋 Kejing here 
-  <br/>
-  I'm Your Future Full-Stack Software Engineer 😁😁😁
-</h1>
+<h1 align="center"> 
+<p align="left"> <img 
+src="https://komarev.com/ghpvc/?username=kejingyan&label=Profile%20views&color=0e75b6&style=flat" alt="kejingyan" /> </p> Hello 👋 Kejing here <br/> I'm Your Future Data Scientist 😁📊 </h1>
 
-As a Full-Stack Developer, my expertise leans heavily towards Front-End technologies. I'm deeply passionate about creating not just functional but also aesthetically pleasing solutions. My journey in the tech industry has been marked by a relentless pursuit of knowledge, with a special focus on exploring emerging technologies and innovative design patterns. This continuous learning fuels my ability to enhance and optimize my solutions.
+As a Data Scientist and Software Developer, my expertise spans statistical modeling, machine learning, and full-stack development. I'm deeply passionate about solving complex problems with data-driven insights and delivering scalable, impactful solutions. My journey has been marked by academic rigor and professional experiences in diverse fields like healthcare, finance, and consumer technology.
 
-I firmly believe in the transformative power of clean, intuitive code in shaping exceptional user experiences. My approach is pragmatic: I favor iterative development, starting with prototypes and refining them into efficient, working models. This method not only aligns with my philosophy but also ensures that the end product is both effective and user-centric. Sharing my knowledge and insights with others is also a key part of my professional ethos, as I am always keen to contribute to the collective growth of our field.
+I firmly believe in the transformative power of clean, interpretable models and user-focused design in creating practical tools. Whether collaborating on research, developing ML pipelines, or refining data visualizations for clients, I strive to ensure that my work bridges the gap between technical complexity and user needs.
 
-Let me give you a glimpse of my diverse skill set:
+Here's a quick snapshot of my skill set:
 
-* **Languages |** JavaScript, TypeScript, Python, SQL, HTML, CSS, Tailwind CSS, SCSS
-* **Front-End |** Node.js, React, Svelte, SvelteKit, Bootstrap, Flowbite, M3 (Material UI), Shadow & Virtual DOM manipulation
-* **Back-End |** FastAPI, Flask, Django, OpenSSL, MongoDB, FireBase, UserBase, Supabase, PostgreSQL, RabbitMQ, WebSockets, TOZ 
-* **Testing/Deployment |** Selenium, Insomnia, Beekeeper Studio, DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, and Docker
-* **Tools |** Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
+Programming Languages | Python, SQL, R, Java
+Machine Learning | PyTorch, TensorFlow, Scikit-learn, XGBoost, NumPy, Pandas
+Data Engineering & Visualization | Spark, Databricks, Tableau, Matplotlib
+Tools & Practices | Git, Agile Development, Statistical Modeling, API Integration
+Languages | English (Bilingual), Chinese (Primary), Japanese (Elementary), Cantonese (Limited Working)
 
 <!--
 
@@ -68,73 +63,45 @@ space???
 -->
 
 
-
 <!--
 - Slack Groups:
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lee-n-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee pham" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/kejing-yan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kejingyan" height="30" width="40" /></a> <a href="https://anyfruit.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="kejingyan-portfolio" height="30" width="40" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
 
 <p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-
-<a href="https://www.svelte.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> 
+  
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
 </a> 
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.fastapi.tiangolo.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.firebase.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+<a href="https://databricks.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" alt="Databricks" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.tailwindcss.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
-</a> 
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> 
 </a> 
 </p>
 
