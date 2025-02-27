@@ -1,7 +1,7 @@
 <h1 align="center">
   <p align="left">  
     <img src="https://komarev.com/ghpvc/?username=kejingyan&label=Profile%20views&color=0e75b6&style=flat" alt="kejingyan" /> 
-  </p> 
+  </p>
   Hello 👋 Kejing here 
   <br/> 
   I'm Your Future Data Scientist 😁📊 
