@@ -7,7 +7,6 @@
 <p align="center">
   🎓 Brown University &nbsp;·&nbsp; 📍 Providence, RI &nbsp;·&nbsp; She/Her
   <br/>
-  <a href="https://verypogsite.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/kejing-yan">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:yankejing711@gmail.com">Email</a>
   <br/><br/>
